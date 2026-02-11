@@ -1,0 +1,7 @@
+{
+  "name": "CySync: Polkadot & Acala Hub",
+  "description": "A high-fidelity simulation of the CySync desktop application integrated with Polkadot and Acala support, featuring shard-based MPC signing and SS58 address management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
